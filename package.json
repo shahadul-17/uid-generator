@@ -1,0 +1,29 @@
+{
+  "name": "@shahadul-17/uid-generator",
+  "version": "0.0.1",
+  "description": "A unique identifier generator that can generate unique IDs indefinitely.",
+  "author": "Md. Shahadul Alam Patwary",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahadul-17/uid-generator.git"
+  },
+  "keywords": [
+    "uid-generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/shahadul-17/uid-generator/issues"
+  },
+  "homepage": "https://github.com/shahadul-17/uid-generator#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
